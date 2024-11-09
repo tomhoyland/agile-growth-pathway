@@ -2,6 +2,7 @@
 
 ## Downloads
 1. PowerPoint Deck: https://github.com/tomhoyland/agile-growth-pathway/blob/main/Agile-Growth-Pathway.pptx
+2. PDF Deck: https://github.com/tomhoyland/agile-growth-pathway/blob/main/Agile-Growth-Pathway.pdf
 
 ## What is it?
 The Agile Growth Pathway is a practical, step-by-step guide to support agile professionals at any stage in their career. Designed with an industry-recognised competency model, it enables practitioners to gain self-awareness, identify growth areas, and build a clear path toward their professional goals.
