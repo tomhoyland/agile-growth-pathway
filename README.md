@@ -8,7 +8,9 @@
 The Agile Growth Pathway is a practical, step-by-step guide to support agile professionals at any stage in their career. Designed with an industry-recognised competency model, it enables practitioners to gain self-awareness, identify growth areas, and build a clear path toward their professional goals.
 
 ## Who is it for?
-This pathway is for Agile Practitioners, Agile Practitioner People Managers, Heads of Profession, and any agile professionals aiming to develop their skills and advance their careers. It is also a valuable resource for team leads and managers supporting their team’s growth.
+- **Agile Practitioners and Agile Practitioner People Managers** – A resource for agile professionals aiming to develop skills and advance their careers.
+- **Team Leads and Managers** – A tool for those supporting team growth and aligning with broader agile competencies.
+- **Heads of Practice, Profession, and Delivery** – Supports leaders and executives in developing and growing their capabilities to deliver a robust, resilient service that meets the needs of clients and organisations.
 
 ## When to use it
 1. **Career Development Planning** – To outline growth opportunities, assess skills, and set a development plan.
