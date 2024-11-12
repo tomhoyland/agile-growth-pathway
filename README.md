@@ -17,6 +17,7 @@ The Agile Growth Pathway is a practical, step-by-step guide to support agile pro
 2. **Role Transitions** – To navigate a new role or prepare for a promotion by understanding role competencies and expectations.
 
 ## How to use it
+While this resource is structured around a scenario at Generic Inc., the Agile Growth Pathway pack is intended as a flexible and valuable resource for all. Whether you choose to follow it as a ready-made pathway, use it as a foundation to adopt and adapt, or draw inspiration to create something similar within your own teams, communities, or organisations - this pack is designed for versatility. Feel free to adopt it, adapt it, or disassemble it entirely to best support your unique context and goals in agile professional development
 
 1. **Get Resources** – Access the Agile Growth Pack, Agile Growth Wheel, and supporting templates.
 2. **Start with Self-Awareness** – Use tools like “Me at My Best” to identify what you need to perform at your best.
